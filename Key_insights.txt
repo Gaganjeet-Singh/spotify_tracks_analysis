@@ -1,0 +1,31 @@
+KEY INSIGHTS
+
+
+1. The number of songs released annually peaked around 2018, with the total exceeding 55,000 tracks.
+
+2. A significant dip in song releases occurred around 2016, with the count dropping to just over 40,000.
+
+3. The vast majority of songs have a loudness between -10 dB and -5 dB, with the peak count of over 140,000 songs occurring around the -5 dB mark.
+
+4. Genres such as black-metal, gospel, and ambient are among the most represented in the dataset, each with over 20,000 songs.
+
+5. The most common song duration is approximately 200 seconds (3 minutes and 20 seconds), with over 60,000 songs falling into this length.
+
+6. From 2000 to 2022, the average energy of songs (a measure of intensity) has generally trended upwards.
+
+7. In direct contrast, the average valence (a measure of musical positivity or "happiness") has steadily decreased over the same two-decade period.
+
+8. Song popularity is heavily skewed, as nearly 200,000 songs in the dataset have a popularity score of zero.
+
+9. The average tempo of music has gotten faster over time, increasing from a low of about 120.5 BPM in 2001 to a peak near 124.0 BPM by 2022.
+
+10. In terms of musical mode, 63.5% of the songs are in a major key (often perceived as "Happy/Bright") , while 36.5% are in a minor key (often perceived as "Sad/Dark").
+
+
+
+
+
+
+
+
+
